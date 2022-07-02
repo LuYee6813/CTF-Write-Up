@@ -1,1 +1,0 @@
-# ALL CTF Write-Up
